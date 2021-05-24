@@ -1,0 +1,4 @@
+Mysql 5.7
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Current-Root-Password';
+FLUSH PRIVILEGES;
